@@ -1,0 +1,45 @@
+
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Keerai vadai",
+      "ingredients":"1/2 Cup chana dal, 2 Tbsp toor dal ,1 Tbsp rice, 1 Cup spinach, a handful of coriander leaves, choppedA handful of curry leaves,  green chillies, 1-inch ginger chopped, 1 tsp fennel seeds, a pinch of hingOil for frying, Salt to taste",
+      "steps":"To begin with, mix the chana dal and toor dal and soak them in water for around an hour. Once done, drain the water and keep the dal mixture aside for another hour. Now, take 1⁄3 of the mixture and add it to a mixer grinder along with green chillies, ginger, saunf, coriander leaves, and salt. Grind the mixture coarsely, and then transfer it to a bowl. Grind the remaining dal mixture and add it to the one we just prepared. There’s no need to add water, as we want to keep the mixture coarse. Next, add chopped spinach and curry leaves to the bowl and mix well . Wet your palms and form small balls of the mixture to make vadas. Heat oil in a kadhai set on a low-medium flame and gently add the vadas. Deep-fry them until they become crispy and turn golden brown in colour. Transfer to a plate lined with tissue paper, and serve hot! Keerai Vadai is ready to be relished",
+      "img":"/keeravadai.png"
+    },
+    {
+      "id": "2",
+      "title": "Kanchipuram idli",
+      "ingredients":"1 bowl Idli , batterSalt as per taste, 2 tsp ghee, 1 spring curry leaves chopped, 1/2 tsp hing, 1/2 tsp dry ginger powder, 1 tsp cumin seeds, 1 black peppercorn, 2-3 Green Chillies chopped, 1 tsp soaked chana dal",
+      "steps":"Heat ghee in a kadhai and prepare a tadka with all the spices and herbs. Once done, add to the idli batter.3.Add some salt and give a final mix. Allow the batter to ferment overnight. Allow the batter to ferment overnight. Prepare idli in idli steamer and serve",
+      "img":"/idli.png"
+      
+    },
+    {
+      "id": "3",
+      "title": "Ragi Paratha",
+      "ingredients":"1 Cup Ragi flour, 1/2 cup wheat flour, 1/4 cup finely chopped onions, 1/4 cup finely chopped coriander leaves, 1-2 green chillies finely chopped (adjust according to your spice preference), Salt to taste, Ghee or oil for roasting",
+      "steps":"In a mixing bowl, combine the Ragi flour and wheat flour. Add a pinch of salt and mix well .Slowly add water and knead the mixture into a smooth, pliable dough. To the dough, add the finely chopped onions, coriander leaves, green chillies, and cumin seeds. Knead the dough again, ensuring that all the added ingredients are evenly distributed throughout. Divide the dough into small, equal-sized portions. Take one portion, roll it into a ball, and flatten it slightly . Roll out the portion into a thin, round paratha. You can use some dry flour to prevent sticking. Place a griddle or tava on the stove and heat it over medium-high heat.8.Once the griddle is hot, carefully place the rolled-out paratha on it. After about 30 seconds, flip the paratha to cook the other side .Add a little ghee around the edges of the paratha to make it crispy and golden brown. Your Ragi Paratha is ready when both sides are nicely browned and crispy",
+      "img":"/ragiparatha.png"
+    
+      
+    },
+    {
+      "id": "4",
+      "title": "Chilka Roti",
+      "ingredients":"1 rice, 3/4 chana dal, Salt to tasteWater, as required Oil for cooking",
+      "steps": "Start by washing the rice and chana dal nicely. Soak them in water overnight .Next morning, drain all the water and transfer it to a mixer grinder to form a smooth paste. You may have to add a bit of water at this stage, but make sure the batter doesn’t become too thin. Once done, transfer to a bowl and add salt to taste. Whisk well to incorporate air into the batter. Now, heat a tawa on a low-medium flame and apply some oil to it. Pour a ladleful of the prepared batter and spread it evenly. Allow it to cook for a few minutes, and then flip and cook from the other side. Repeat the process with the remaining batter. Your chilka rotis are ready to be savoured!",
+      "img":"/chilkaroti.png"
+      
+    },
+    {
+      "id": "5",
+      "title": "Obbattu",
+      "ingredients":"2 Cups toor dal , 500 gram finely grated jaggery, 1 tsp cardamom powder, 1.5 cup finely grated coconut350 gram , maida ,7 tsp of oil (or as required), A pinch of salt, 1 tsp turmeric",
+      "steps":"Soak the dal for 20 minutes and in the meantime, work on the dough .Add maida, salt, turmeric, and water (it was about half a cup or less) to knead the dough. Keep adding oil to the mixture whenever it gets too sticky. You can use ghee instead. Let the dough rest for two hours, at least. For the stuffing, cook the dal in 5 cups of water approximately, until tender but not mushy. Then drain the water. Let it cool. Grind the dal with coconut, jaggery, and cardamom, without adding any water until it becomes a smooth paste . Stir the mixture on a low flame until it becomes thicker. Then let it cool.9.Divide the dough and the dal-coconut mixture into equal portions, and make little balls of them .Next, roll each sphere of dough like a puri, place a sphere of stuffing on it, and then cover it with the dough.11.On greased butter paper, carefully roll out the sphere into a chapati size. Cook it on a greased tawa until golden, Keep adding oil around the edges. Once it is golden brown, take it off the flame and serve it with a blob of ghee",
+      "img":"/obbatu.png"
+      
+    }
+  ]
+}

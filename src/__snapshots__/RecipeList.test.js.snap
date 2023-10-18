@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyComponent should render initial layout 1`] = `
+Array [
+  <div>
+    <div>
+      <h1
+        className="app-header"
+      >
+        Tasty recipes
+      </h1>
+      <div
+        className="autocomplete"
+      >
+        <input
+          className="search-input"
+          onChange={[Function]}
+          placeholder="Search Recipes"
+          type="text"
+          value=""
+        />
+        <ul
+          className="autocomplete-list"
+        />
+        <p>
+          Selected Option: 
+        </p>
+      </div>
+    </div>
+    <h2
+      className="sub-header"
+    >
+      Recipe List
+    </h2>
+    <ol
+      className="recipe-list"
+    />
+    <div
+      className="add-recipe"
+    >
+      <h2>
+        Add Your Own Recipe
+      </h2>
+      <div
+        className="add-recipe-card"
+      >
+        <input
+          className="recipe-input"
+          onChange={[Function]}
+          placeholder="Recipe Title"
+          type="text"
+          value=""
+        />
+      </div>
+      <br />
+      <textarea
+        className="recipe-input"
+        onChange={[Function]}
+        placeholder="Ingredients"
+        value=""
+      />
+      <br />
+      <textarea
+        className="recipe-input"
+        onChange={[Function]}
+        placeholder="steps"
+        value=""
+      />
+      <br />
+      <button
+        className="button"
+        onClick={[Function]}
+      >
+        Add Recipe
+      </button>
+    </div>
+  </div>,
+]
+`;
